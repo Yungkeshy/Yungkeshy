@@ -1,6 +1,6 @@
 ### Hi there, I'm Kamal G. Oladele 👋
 
-]I am a Master's student in **Systems Engineering** (4.0 GPA) at Missouri S&T, concurrently earning a **Graduate Certificate in Computational Intelligence**. My work is at the intersection of complex systems, data science, and artificial intelligence.
+I am a Master's student in **Systems Engineering** (4.0 GPA) at Missouri S&T, concurrently earning a **Graduate Certificate in Computational Intelligence**. My work is at the intersection of complex systems, data science, and artificial intelligence.
 
 My research focuses on building robust, intelligent frameworks for modeling, simulation, and optimization. I am passionate about applying **Model-Based Systems Engineering (MBSE)**, **Digital Twins**, and **Deep Learning** to solve critical challenges in healthcare, robotics, and cyber-physical systems. I am actively seeking a Ph.D. position for Fall 2026.
 
