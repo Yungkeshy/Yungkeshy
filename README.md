@@ -30,4 +30,4 @@ My research focuses on building robust, intelligent frameworks for modeling, sim
 
 * **Email:** `kgokcg@mst.edu`
 * **LinkedIn:** [`linkedin.com/in/kamal-oladele-6a1a9b17a`](https://www.linkedin.com/in/kamal-oladele-6a1a9b17a/)
-* **View My Full CV:** [Here] (Kamal Oladele Phd CV.pdf)
+* **View My Full CV:** [Here](Kamal-Oladele-Phd-CV.pdf)
