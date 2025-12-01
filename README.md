@@ -1,4 +1,4 @@
-### Hi there, I'm Kamal G. Oladele 👋
+### Hi there, I'm Kamal Gbolahon Oladele 👋
 
 I am a Master's student in **Systems Engineering** (4.0 GPA) at Missouri S&T, concurrently earning a **Graduate Certificate in Computational Intelligence**. My work is at the intersection of complex systems, data science, and artificial intelligence.
 
